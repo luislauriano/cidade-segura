@@ -16,7 +16,7 @@ Luís Vinicius Lauriano de França
 🌐 GitHub: luislauriano
 
 ## Documentação 📄
-Notebook de Análise e Treinamento: [Link para o seu notebook .ipynb no GitHub ou Colab]
+[Notebook de Treinamento e Engenharia de Variáveis]: (https://github.com/luislauriano/cidade-segura/blob/main/Modelo_ML_Cidade_Segura.ipynb)
 
 Apresentação do Projeto (Pitch): [Link para sua apresentação, se houver]
 
