@@ -19,7 +19,7 @@ Luís Vinicius Lauriano de França
 
 [Notebook de Treinamento e Engenharia de Variáveis:](https://github.com/luislauriano/cidade-segura/blob/main/Modelo_ML_Cidade_Segura.ipynb)
 
-Apresentação do Projeto (Pitch): [Link para sua apresentação, se houver]
+[Apresentação do Projeto (Pitch):]()
 
 ## Tecnologias ⚙️
 
@@ -33,27 +33,17 @@ Siga os passos abaixo para executar a solução localmente na sua máquina.
 
 1. Clone o Repositório
 
-git clone [https://github.com/luislauriano/cidade-segura](https://github.com/luislauriano/cidade-segura) 
-cd cidade-segura
+* git clone [https://github.com/luislauriano/cidade-segura](https://github.com/luislauriano/cidade-segura) 
+* cd cidade-segura
 
 2. Crie um Ambiente Virtual (Recomendado)
 
-python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
+* python -m venv venv
+* source venv/bin/activate  # No Windows: venv\Scripts\activate
 
 3. Instale as Dependências
 
-É recomendado que você crie um arquivo requirements.txt com as bibliotecas necessárias.
-
-numpy
-streamlit
-pandas
-scikit-learn
-plotly
-
-E então instale com o comando:
-
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 4. Execute a Aplicação Streamlit
 
