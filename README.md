@@ -43,7 +43,7 @@ Siga os passos abaixo para executar a solução localmente na sua máquina.
 
 3. Instale as Dependências
 
-* pip install -r requirements.txt
+  *   pip install -r requirements.txt
 
 4. Execute a Aplicação Streamlit
 
