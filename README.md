@@ -31,26 +31,26 @@ A plataforma está disponível para acesso e interação através do seguinte li
 ### Como Executar o Projeto Localmente 🚀
 Siga os passos abaixo para executar a solução localmente na sua máquina.
 
-1. Clone o Repositório
+#### Clone o Repositório
 
 * git clone [https://github.com/luislauriano/cidade-segura](https://github.com/luislauriano/cidade-segura) 
 * cd cidade-segura
 
-2. Crie um Ambiente Virtual (Recomendado)
+#### Crie um Ambiente Virtual (Recomendado)
 
 * python -m venv venv
 * source venv/bin/activate  # No Windows: venv\Scripts\activate
 
-3. Instale as Dependências
+#### Instale as Dependências
 
   *   pip install -r requirements.txt
 
-4. Execute a Aplicação Streamlit
+#### Execute a Aplicação Streamlit
 
-Certifique-se de que os arquivos model_cidade_segura.pkl.gz e Dados_tratados.csv estão na mesma pasta do seu app.py.
+* Certifique-se de que os arquivos model_cidade_segura.pkl.gz e Dados_tratados.csv estão na mesma pasta do seu app.py.
 
-streamlit run app.py
+* streamlit run app.py
 
-5. Acesse no Navegador
+#### Acesse no Navegador
 
 Abra o seu navegador e acesse o endereço http://localhost:8501 para explorar a plataforma! 🔍
