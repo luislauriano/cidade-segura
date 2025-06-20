@@ -53,4 +53,4 @@ Siga os passos abaixo para executar a solução localmente na sua máquina.
 
 #### Acesse no Navegador
 
-Abra o seu navegador e acesse o endereço http://localhost:8501 para explorar a plataforma! 🔍
+* Abra o seu navegador e acesse o endereço http://localhost:8501 para explorar a plataforma! 🔍
