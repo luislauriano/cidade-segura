@@ -21,10 +21,11 @@ Notebook de Análise e Treinamento: [Link para o seu notebook .ipynb no GitHub o
 Apresentação do Projeto (Pitch): [Link para sua apresentação, se houver]
 
 ## Tecnologias ⚙️
-🌐 Acessar a Aplicação Online
+
+### 🌐 Acessar a Aplicação Online
 A plataforma está disponível para acesso e interação através do seguinte link:
 
-### 🔗 [Acesse o Cidade Segura aqui!]([Link da sua aplicação no Streamlit Cloud, Hugging Face, etc.])
+🔗 [Acesse o Cidade Segura aqui!]([Link da sua aplicação no Streamlit Cloud, Hugging Face, etc.])
 
 ### Como Executar o Projeto Localmente 🚀
 Siga os passos abaixo para executar a solução localmente na sua máquina.
