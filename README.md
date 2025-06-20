@@ -25,7 +25,7 @@ Apresentação do Projeto (Pitch): [Link para sua apresentação, se houver]
 ### 🌐 Acessar a Aplicação Online
 A plataforma está disponível para acesso e interação através do seguinte link:
 
-🔗 [Acesse o Cidade Segura aqui!]([Link da sua aplicação no Streamlit Cloud, Hugging Face, etc.])
+🔗 [Acesse o Cidade Segura aqui!](https://cidade-segura.streamlit.app/)
 
 ### Como Executar o Projeto Localmente 🚀
 Siga os passos abaixo para executar a solução localmente na sua máquina.
