@@ -27,8 +27,6 @@ Tomar decisões baseadas em dados para alocar viaturas e pessoal de forma proati
 
 [Notebook de Treinamento e Engenharia de Variáveis:](https://github.com/luislauriano/cidade-segura/blob/main/Modelo_ML_Cidade_Segura.ipynb)
 
-[Apresentação do Projeto (Pitch):]()
-
 ## Tecnologias ⚙️
 
 ### 🌐 Acessar a Aplicação Online
