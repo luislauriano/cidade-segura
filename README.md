@@ -1,7 +1,7 @@
-## Descrição ℹ️
-O Cidade Segura é uma plataforma de inteligência de dados desenvolvida para auxiliar as forças de segurança pública na otimização do patrulhamento e na prevenção de ocorrências. Utilizando um modelo de Machine Learning (XGBRegressor), a solução analisa dados históricos e em tempo real para prever a probabilidade de risco em diferentes regiões da cidade.
+## Descrição do projeto VIGIAℹ️
+O VIGIA é além do App Mobile para engajar o cidadão, permitindo denúncias geolocalizadas de crimes, lixo, iluminação e outros problemas urbanos, com o dashboard integrado, que conecta a Polícia Militar e outros órgãos públicos como SLU e administração regional, garantindo encaminhamento rápido das demandas. E a aplicação de machine learning, que prevê o risco por região e recomenda o número ideal de viaturas, garantindo uma patrulha mais eficiente e uma cidade mais segura e limpa.
 
-A ferramenta oferece um dashboard interativo onde os gestores de segurança podem:
+A aplicação de machine learning oferece um dashboard interativo onde os gestores de segurança podem:
 
 Visualizar a previsão de risco para datas e horários futuros.
 
@@ -10,10 +10,13 @@ Analisar tendências e padrões históricos de ocorrências por zona, dia da sem
 Tomar decisões baseadas em dados para alocar viaturas e pessoal de forma proativa, aumentando a eficiência e a segurança da população.
 
 ## Time 🏆
-👨‍💻 Desenvolvedor
+👨‍💻 Desenvolvedor Negócios
 Luís Vinicius Lauriano de França
-📧 E-mail: luislauriano@outlook.com.br
-🌐 GitHub: luislauriano
+👨‍💻 Desenvolvedor 
+Wictor Melo
+👨‍💻 UI/UX Designer
+Gabriella Graciano
+Leonardo Seabra
 
 ## Documentação 📄
 
