@@ -11,14 +11,17 @@ Tomar decisões baseadas em dados para alocar viaturas e pessoal de forma proati
 
 ## Time 🏆
 👨‍💻 Desenvolvedor Negócios
-Luís Vinicius Lauriano de França
+
+* Luís Vinicius Lauriano de França
 
 👨‍💻 Desenvolvedor 
-Wictor Melo
+
+* Wictor Melo
 
 👨‍💻 UI/UX Designer
-Gabriella Graciano
-Leonardo Seabra
+
+* Gabriella Graciano
+* Leonardo Seabra
 
 ## Documentação 📄
 
