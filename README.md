@@ -3,11 +3,11 @@ O VIGIA é além do App Mobile para engajar o cidadão, permitindo denúncias ge
 
 A aplicação de machine learning oferece um dashboard interativo onde os gestores de segurança podem:
 
-Visualizar a previsão de risco para datas e horários futuros.
+* Visualizar a previsão de risco para datas e horários futuros.
 
-Analisar tendências e padrões históricos de ocorrências por zona, dia da semana e tipo de evento.
+* Analisar tendências e padrões históricos de ocorrências por zona, dia da semana e tipo de evento.
 
-Tomar decisões baseadas em dados para alocar viaturas e pessoal de forma proativa, aumentando a eficiência e a segurança da população.
+* Tomar decisões baseadas em dados para alocar viaturas e pessoal de forma proativa, aumentando a eficiência e a segurança da população.
 
 ## Time 🏆
 👨‍💻 Desenvolvedor Negócios
